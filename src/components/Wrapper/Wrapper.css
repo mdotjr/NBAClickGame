@@ -1,0 +1,14 @@
+.wrapper {
+    background: rgb(165, 30, 30);
+    /* background-image: url("../assets/images/nba-image.png"); */
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding-bottom: 50px;
+  }
