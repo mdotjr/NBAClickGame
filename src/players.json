@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "image": "https://pm1.narvii.com/6668/4abfba0127294e8abbfca86b071f2b182127af75_hq.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://fortunedotcom.files.wordpress.com/2017/03/wgl-2017-lebron-james.jpg?w=840&h=485&crop=1",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "http://thesource.com/wp-content/uploads/2018/04/russellwestbrook.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://static.stereogum.com/uploads/2017/12/james-harden-rockets-nov-2017-a-billboard-1548-1514407566.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://thenypost.files.wordpress.com/2018/07/180717-kawhi-leonard-raptors.jpg?quality=90&strip=all&w=618&h=410&crop=1",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "http://www2.pictures.zimbio.com/gi/Kyrie+Irving+Golden+State+Warriors+v+Boston+RPzdhglGP-Ml.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://s.yimg.com/ny/api/res/1.2/LmYVU.0VDIK33_uIFuZwAA--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/golf_digest_7/a391967b041178253de6aaaf660c96e6",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://cdn-s3.si.com/s3fs-public/2018/06/30/kevin-durant-contract.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_auto/a0db4gddm7bwstkknyzo/giannis-14-size",
+      "clicked": false
+    },
+
+    {
+      "id": 10,
+      "image": "https://cdn.vox-cdn.com/thumbor/dTA1-SCdMqFQYquM9G5oR6BS0m8=/0x0:5184x3456/1200x800/filters:focal(2137x551:2965x1379)/cdn.vox-cdn.com/uploads/chorus_image/image/58431597/664550238.jpg.0.jpg",
+      "clicked": false
+    },
+
+    {
+      "id": 11,
+      "image": "http://static-41.sinclairstoryline.com/resources/media/200e8672-6d3d-4028-bdff-9dff2c23c6b3-AP_18018107895262.jpg",
+      "clicked": false
+    },
+
+    {
+      "id": 12,
+      "image": "http://images.performgroup.com/di/library/omnisport/de/96/bensimmons-cropped_1z41c1nqsv6c1ohdloxnppufe.jpg?t=703504211",
+      "clicked": false
+    }
+ 
+
+]
