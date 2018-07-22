@@ -15,4 +15,4 @@ A memory app built with react where users choose an image of a player and accumu
 
 # Link to App
 
-https://git.heroku.com/nbaclickapp.git
+https://nbaclickapp.herokuapp.com
